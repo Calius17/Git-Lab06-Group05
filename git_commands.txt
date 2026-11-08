@@ -1,0 +1,8 @@
+git init - Initializes a local Git repository.
+git status - Displays the current repository status.
+git add - Adds any file to the local Git repository
+git commit -m "message" - Saves your staged snapshot into the project history with a descriptive message.
+git branch: Lists all local branches in the current repository.
+git config --global user.name "Name": Sets the author name to be recorded with your commits
+git config --global user.email "email": Sets the email address linked to your commits
+git diff: Shows the exact line-by-line differences between your working directory and the staging area.
