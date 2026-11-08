@@ -1,0 +1,7 @@
+Group Number: 05
+Member 1: Tanvin Adnan Turag - 2023-3-60-044
+Member 2: Maharun Nesa - 2023-1-60-190
+Member 3: Nadia Noumee Meem - 2023-3-60-141
+Course Code: CSE412
+Lab Work: 06
+Topic: Git Repository
