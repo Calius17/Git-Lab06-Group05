@@ -5,3 +5,7 @@ Member 3: Nadia Noumee Meem - 2023-3-60-141
 Course Code: CSE412
 Lab Work: 06
 Topic: Git Repository
+
+Department: Computer Science and Engineering
+University: East West University
+Git Learning Status: In Progress
